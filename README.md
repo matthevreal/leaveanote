@@ -1,2 +1,4 @@
 # leaveanote
-in ofc php (&lt;3 php)
+insecure, buggy; everything you would want!
+
+feel free to fork and fix everything
